@@ -1,0 +1,302 @@
+[
+  {
+    "name": "KT VS DK",
+    "start": "2022-05-29",
+    "color": "blue",
+    "timed": false
+  },
+  {
+    "name": "T1 VS DRX",
+    "start": "2022-05-29",
+    "color": "indigo",
+    "timed": false
+  },
+  {
+    "name": "LSB VS BRO",
+    "start": "2022-06-01",
+    "color": "deep-purple",
+    "timed": false
+  },
+  {
+    "name": "GEN VS KDF",
+    "start": "2022-06-01",
+    "color": "cyan",
+    "timed": false
+  },
+  {
+    "name": "DK VS NS",
+    "start": "2022-06-02",
+    "color": "grey darken-1",
+    "timed": false
+  },
+  {
+    "name": "KT VS HLE",
+    "start": "2022-06-02",
+    "color": "green",
+    "timed": false
+  },
+  {
+    "name": "NS VS KR",
+    "start": "2022-06-03",
+    "color": "grey darken-1",
+    "timed": false
+  },
+  {
+    "name": "KDF VS BRO",
+    "start": "2022-06-03",
+    "color": "orange",
+    "timed": false
+  },
+  {
+    "name": "DK VS KRX",
+    "start": "2022-06-04",
+    "color": "orange",
+    "timed": false
+  },
+  {
+    "name": "HLE VS LSB",
+    "start": "2022-06-04",
+    "color": "grey darken-1",
+    "timed": false
+  },
+  {
+    "name": "GEN VS T1",
+    "start": "2022-06-05",
+    "color": "grey darken-1",
+    "timed": false
+  },
+  {
+    "name": "KDF VS KT",
+    "start": "2022-06-05",
+    "color": "deep-purple",
+    "timed": false
+  },
+  {
+    "name": "NS VS LSB",
+    "start": "2022-06-08",
+    "color": "grey darken-1",
+    "timed": false
+  },
+  {
+    "name": "HLE VS DK",
+    "start": "2022-06-08",
+    "color": "green",
+    "timed": false
+  },
+  {
+    "name": "DRX VS GEN",
+    "start": "2022-06-09",
+    "color": "indigo",
+    "timed": false
+  },
+  {
+    "name": "T1 VS BRO",
+    "start": "2022-06-09",
+    "color": "deep-purple",
+    "timed": false
+  },
+  {
+    "name": "HLE VS T1",
+    "start": "2022-06-10",
+    "color": "orange",
+    "timed": false
+  },
+  {
+    "name": "GEN VS LSB",
+    "start": "2022-06-10",
+    "color": "grey darken-1",
+    "timed": false
+  },
+  {
+    "name": "KT VS DRX",
+    "start": "2022-06-11",
+    "color": "grey darken-1",
+    "timed": false
+  },
+  {
+    "name": "DK VS KDF",
+    "start": "2022-06-11",
+    "color": "blue",
+    "timed": false
+  },
+  {
+    "name": "BRO VS NS",
+    "start": "2022-06-12",
+    "color": "green",
+    "timed": false
+  },
+  {
+    "name": "LSB VS HLE",
+    "start": "2022-06-12",
+    "color": "blue",
+    "timed": false
+  },
+  {
+    "name": "KT VS KDF",
+    "start": "2022-06-15",
+    "color": "blue",
+    "timed": false
+  },
+  {
+    "name": "DRX VS T1",
+    "start": "2022-06-15",
+    "color": "indigo",
+    "timed": false
+  },
+  {
+    "name": "DK VS BRO",
+    "start": "2022-06-16",
+    "color": "orange",
+    "timed": false
+  },
+  {
+    "name": "GEN VS NS",
+    "start": "2022-06-16",
+    "color": "deep-purple",
+    "timed": false
+  },
+  {
+    "name": "BRO VS DRX",
+    "start": "2022-06-17",
+    "color": "grey darken-1",
+    "timed": false
+  },
+  {
+    "name": "NS VS DK",
+    "start": "2022-06-17",
+    "color": "blue",
+    "timed": false
+  },
+  {
+    "name": "T1 VS KDF",
+    "start": "2022-06-18",
+    "color": "orange",
+    "timed": false
+  },
+  {
+    "name": "HLE VS KT",
+    "start": "2022-06-18",
+    "color": "indigo",
+    "timed": false
+  },
+  {
+    "name": "LSB VS GEN",
+    "start": "2022-06-19",
+    "color": "blue",
+    "timed": false
+  },
+  {
+    "name": "DRX VS DK",
+    "start": "2022-06-19",
+    "color": "grey darken-1",
+    "timed": false
+  },
+  {
+    "name": "BRO VS T1",
+    "start": "2022-06-22",
+    "color": "indigo",
+    "timed": false
+  },
+  {
+    "name": "KT VS NS",
+    "start": "2022-06-22",
+    "color": "grey darken-1",
+    "timed": false
+  },
+  {
+    "name": "KDF VS LSB",
+    "start": "2022-06-23",
+    "color": "grey darken-1",
+    "timed": false
+  },
+  {
+    "name": "HLE VS GEN",
+    "start": "2022-06-23",
+    "color": "blue",
+    "timed": false
+  },
+  {
+    "name": "HLE VS KDF",
+    "start": "2022-06-24",
+    "color": "orange",
+    "timed": false
+  },
+  {
+    "name": "NS VS BRO",
+    "start": "2022-06-24",
+    "color": "cyan",
+    "timed": false
+  },
+  {
+    "name": "T1 VS KT",
+    "start": "2022-06-25",
+    "color": "green",
+    "timed": false
+  },
+  {
+    "name": "HLE VS DK",
+    "start": "2022-06-25",
+    "color": "grey darken-1",
+    "timed": false
+  },
+  {
+    "name": "LSB VS NS",
+    "start": "2022-06-26",
+    "color": "grey darken-1",
+    "timed": false
+  },
+  {
+    "name": "GEN VS DRX",
+    "start": "2022-06-26",
+    "color": "green",
+    "timed": false
+  },
+  {
+    "name": "BRO VS KDF",
+    "start": "2022-06-29",
+    "color": "orange",
+    "timed": false
+  },
+  {
+    "name": "DK VS KT",
+    "start": "2022-06-29",
+    "color": "deep-purple",
+    "timed": false
+  },
+  {
+    "name": "DRX VS LSB",
+    "start": "2022-06-30",
+    "color": "grey darken-1",
+    "timed": false
+  },
+  {
+    "name": "K1 VS GEN",
+    "start": "2022-06-30",
+    "color": "green",
+    "timed": false
+  },
+  {
+    "name": "KT VS DK",
+    "start": "2022-07-01",
+    "color": "deep-purple",
+    "timed": false
+  },
+  {
+    "name": "HLE VS DK",
+    "start": "2022-07-01",
+    "color": "indigo",
+    "timed": false
+  },
+  {
+    "name": "GEN VS DRX",
+    "start": "2022-07-02",
+    "color": "indigo",
+    "timed": false
+  },
+  {
+    "name": "BRO VS NS",
+    "start": "2022-07-02",
+    "color": "grey darken-1",
+    "timed": false
+  }
+]
