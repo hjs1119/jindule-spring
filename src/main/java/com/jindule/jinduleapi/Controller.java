@@ -27,7 +27,7 @@ import static java.nio.charset.StandardCharsets.UTF_8;
 @Slf4j // 로그 기록하기 위한 annotation
 public class Controller {
     final String RIOT_HEADER = "X-Riot-Token";
-    final String RIOT_TOKEN = "RGAPI-3fd01589-6c40-4aed-a4b5-1f0383f0e0b7";
+    final String RIOT_TOKEN = "RGAPI-cb0ce36d-5a87-44f4-8c72-3694a8a617b5";
     final String HC_ID = "jindule";
     final String HC_PWD = "0000";
 
